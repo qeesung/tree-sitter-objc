@@ -1,4 +1,4 @@
-module github.com/tree-sitter-grammars/tree-sitter-objc
+module github.com/qeesung/tree-sitter-objc/v3
 
 go 1.22
 
